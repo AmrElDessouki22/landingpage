@@ -1,4 +1,4 @@
-import { TruckIcon, ClockIcon, CreditCardIcon } from '@heroicons/react/outline';
+import { TruckIcon, ClockIcon, CreditCardIcon } from '@heroicons/react/24/outline';
 
 export function Features() {
   return (
